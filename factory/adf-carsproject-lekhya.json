@@ -1,0 +1,9 @@
+{
+	"name": "adf-carsproject-lekhya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54563028-5068-43a4-b62e-38c70ef1577a",
+		"tenantId": "7d515633-b8b0-4200-bf80-1215f851e49f"
+	}
+}
